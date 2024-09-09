@@ -1,9 +1,11 @@
 # React + Vite
 <h1>Keep Fighting CC#18</h1>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```
 npm install
 npm run dev
 npm run api
+```
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
