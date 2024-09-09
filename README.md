@@ -1,7 +1,8 @@
 # React + Vite
 <h1>Keep Fighting CC#18</h1>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+```bash
+  npm run dev
 $npm install
 $npm run dev
 $npm run api
